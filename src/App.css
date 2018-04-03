@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Images {
+  height: 175px;
+  display: inline-block;
+  padding: 10px;
+  margin: 6px;
+  width: 175px;
+}
+
+.ImageContainer {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 10px;
+  margin: 40px 85px;
+}
