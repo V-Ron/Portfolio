@@ -1,7 +1,7 @@
 import React from 'react';
 import Main from './Main.css'
 
-export default class MainPage extends React.Component {
+export default class Header extends React.Component {
   render() {
     return (
       <div>
